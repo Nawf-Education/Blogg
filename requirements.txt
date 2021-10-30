@@ -29,6 +29,7 @@ MouseInfo==0.1.3
 numpy==1.21.2
 pandas==1.3.3
 Pillow==8.3.2
+psycopg2-binary==2.9.1
 PyAutoGUI==0.9.53
 PyGetWindow==0.0.9
 PyJWT==2.1.0
